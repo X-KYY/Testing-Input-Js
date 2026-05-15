@@ -20,10 +20,12 @@ ul li {
   list-style-type: none;
   font-size: 17px;
   margin: 10px;
-  margin-left: 0x;
-  margin-right: 5px;
   text-align: center;
   
+}
+ul {
+    margin-left: 20px;
+    margin-right: 50px;
 }
 .li-stack {
     background-color: white;
