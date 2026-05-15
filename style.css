@@ -12,6 +12,7 @@ body {
     margin-top: 50px;
     padding-top: 10px;
     padding-bottom: 10px;
+    padding-right: 50px;
 }
 hr {
     margin: 20px 0px;
@@ -23,10 +24,7 @@ ul li {
   text-align: center;
   
 }
-ul {
-    margin-left: 20px;
-    margin-right: 50px;
-}
+
 .li-stack {
     background-color: white;
     max-width: 400px;
