@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    background-color:bisque;
+    border-radius: 5px;
+    min-height: 250px;
+    max-width: 500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+hr {
+    margin: 20px 0px;
+}
+ul li {
+  list-style-type: none;
+  font-size: 17px;
+  margin: 7px;
+  text-align: start;
+}
+.li-stack {
+    background-color: white;
+    width: 400px;
+    padding: 5px 5px;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.place::placeholder {
+    color: red;
+}
+.button-stack {
+   
+}
